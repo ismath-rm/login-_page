@@ -1,0 +1,19 @@
+
+body{
+    background-image: url('../image/bg-img-3.avif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+} 
+.img-thumbnail {
+    padding: 1.25rem;
+    background-color: #8011715b; 
+    border: 1px solid #07090a; 
+    border-radius: 22.25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+p{
+    color: white;
+    font-size: large;
+}
